@@ -1,0 +1,9 @@
+.link {
+    color:aquamarine;
+    transition: all .33s;
+    margin: 0 15px;
+}
+
+.link:hover {
+    color:rgb(0, 255, 170);
+}
